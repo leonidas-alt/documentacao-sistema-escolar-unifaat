@@ -6,6 +6,8 @@
 - Pai/Responsável
 - Chatbot (Sistema)
 
+# Casos de Uso Principais (com exemplos de include/extend)
+
 ## Administrador
 - Gerenciar Matrículas (Cadastrar Aluno, Turma, Designar Aluno)
 - Gerenciar Usuários e Permissões
