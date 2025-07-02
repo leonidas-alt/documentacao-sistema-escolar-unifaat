@@ -19,23 +19,19 @@
                 <td>Contexto, problema e proposta de solução</td>
             </tr>
             <tr>
-                <td><a href="docs/02-casos-de-uso.md">2. Casos de Uso</a></td>
+                <td>2. Casos de Uso</td>
                 <td>Interações entre usuários e sistema</td>
             </tr>
             <tr>
-                <td><a href="docs/03-requisitos-funcionais.md">3. Requisitos Funcionais</a></td>
+                <td>3. Requisitos Funcionais</td>
                 <td>Funcionalidades obrigatórias do sistema</td>
             </tr>
             <tr>
-                <td><a href="docs/04-requisitos-nao-funcionais.md">4. Requisitos Não Funcionais</a></td>
+                <td>4. Requisitos Não Funcionais</td>
                 <td>Desempenho, segurança e usabilidade</td>
             </tr>
             <tr>
-                <td><a href="docs/05-diagrama-dfd.md">5. Diagrama de Fluxo de Dados</a></td>
-                <td>Fluxo de informações e entidades envolvidas</td>
-            </tr>
-            <tr>
-                <td><a href="docs/06-custos-e-cronograma.md">6. Custos e Cronograma</a></td>
+                <td>5. Custos e Cronograma</td>
                 <td>Estimativas de tempo e investimento</td>
             </tr>
         </tbody>
