@@ -1,12 +1,12 @@
- <h1>🎓 Sistema de Gerenciamento Escolar Infantil – UNIFAAT</h1>
+ <h1 align="center">🎓 Sistema de Gerenciamento Escolar Infantil – UNIFAAT</h1>
 
-  <p>📚 Documentação completa da análise e proposta de um sistema de gerenciamento escolar infantil, desenvolvida como projeto acadêmico para a disciplina de <strong>Análise e Proposta de Sistemas</strong> no curso de Análise e Desenvolvimento de Sistemas da UNIFAAT.</p>
+  <p align="center">📚 Documentação completa da análise e proposta de um sistema de gerenciamento escolar infantil, desenvolvida como projeto acadêmico para a disciplina de <strong>Arquitetura de Soluções</strong> no curso de Análise e Desenvolvimento de Sistemas da UNIFAAT.</p>
 
    <hr>
 
-  <h2>📂 Estrutura da Documentação</h2>
+  <h2 align="center">📂 Estrutura da Documentação</h2>
 
-  <table>
+  <table align="center">
         <thead>
             <tr>
                 <th>Seção</th>
@@ -38,10 +38,6 @@
                 <td><a href="docs/06-custos-e-cronograma.md">6. Custos e Cronograma</a></td>
                 <td>Estimativas de tempo e investimento</td>
             </tr>
-            <tr>
-                <td><a href="docs/07-apresentacao.md">7. Apresentação</a></td>
-                <td>Resumo dos slides usados na apresentação</td>
-            </tr>
         </tbody>
     </table>
 
@@ -65,12 +61,11 @@
         <li>👨‍🏫 <strong>Professores</strong></li>
         <li>👪 <strong>Pais ou Responsáveis</strong></li>
         <li>🤖 <strong>Sistema (Chatbot)</strong></li>
-        <li>🧒 <strong>Alunos</strong> (beneficiados indiretamente)</li>
     </ul>
 
    <hr>
 
-  <h2>🛠️ Sugestões Futuras de Tecnologias (não implementadas)</h2>
+  <h2 align="center">🛠️ Sugestões Futuras de Tecnologias (não implementadas)</h2>
 
   <ul>
         <li><strong>Frontend</strong>: React, HTML/CSS/JS</li>
@@ -86,20 +81,6 @@
 
   <hr>
 
-  <h2>📝 Licença</h2>
+  <h2 align="center">📝 Licença</h2>
 
-  <p>Este projeto acadêmico pode ser reutilizado para fins educacionais. Adicione uma <a href="https://choosealicense.com/licenses/mit/">licença MIT</a> se desejar liberar formalmente.</p>
-
-  <hr>
-
-  <h2>🤝 Contato</h2>
-
-  <p>Projeto desenvolvido por estudantes da UNIFAAT.</p>
-    <p>Dúvidas? Sugestões? Abra uma <a href="https://github.com/seu-usuario/seu-repositorio/issues">issue</a>.</p>
-
-   <hr>
----
-
-## 📝 Licença
-
-Este projeto acadêmico pode ser reutilizado para fins educacionais.
+  <p align="center">Este projeto acadêmico pode ser reutilizado para fins educacionais.</p>
