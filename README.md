@@ -15,7 +15,7 @@
         </thead>
         <tbody>
             <tr>
-                <td><a href="docs/01-visao-geral.md">1. Visão Geral</a></td>
+                <td><a href="docs/documentacao-sistema-escolar-unifaat-atualizado/documentacao-sistema-escolar-unifaat/docs/01-visao-geral.md">1. Visão Geral</a></td>
                 <td>Contexto, problema e proposta de solução</td>
             </tr>
             <tr>
