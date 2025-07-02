@@ -1,4 +1,4 @@
-## 1. Visão Geral do Projeto
+# 1. Visão Geral do Projeto
 
 ## Problema Central
 A Escola Infantil UNIFAAT enfrenta dificuldades com a gestão manual e fragmentada dos processos administrativos e pedagógicos. A falta de centralização afeta o controle financeiro, o registro de presença e a comunicação com os pais, gerando retrabalho e perda de eficiência.
