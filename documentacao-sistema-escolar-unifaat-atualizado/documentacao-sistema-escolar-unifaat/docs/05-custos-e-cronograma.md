@@ -10,6 +10,6 @@
 
 ## Custos Estimados
 
-- MVP: R$ 80.000 a R$ 200.000
+- MVP: R$ 40.000 a R$ 90.000
 - Inclui: módulos de pagamentos, presenças, atividades e base do chatbot
 - Funcionalidades avançadas em fases futuras
